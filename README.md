@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋, I am Ahmad Ateya a Computer Engineering student, interested in Backend Development, Cloud, and DevOps.
+
+- #### I’m currently
+  - working on enhancing my Problem Solving skills
+  - learning Golang and Cloud Computing
+  - looking to contribute on the GitHub CLI open source
+  - aiming to participate in the upcoming GSoC (google summer of code)
+
+
 
 <!--
 **ahmadateya/ahmadateya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
