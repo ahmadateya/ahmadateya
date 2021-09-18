@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning Golang, Cloud Computing ...
 - 👯 I’m looking to contribute on GitHub CLI and Open Source Projects
 - 🤓 I’m aiming to participate in the upcoming GSoC (google summer of code)
-- 💬 Ask me about ...
 - 📫 How to reach me: ahmad.m.ateya@gmail.com Or [LinkedIn](https://www.linkedin.com/in/ahmadateya/)
 
 [![Years Badge](https://badges.pufler.dev/years/ahmadateya)](https://badges.pufler.dev)
