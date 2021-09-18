@@ -22,4 +22,6 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ahmadateya&count_private=true&show_icons=true&include_all_commits=true&theme=light)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadateya&hide=TeX&layout=compact)
+
+<!-- Un wanted stats -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadateya&hide=TeX&layout=compact) -->
