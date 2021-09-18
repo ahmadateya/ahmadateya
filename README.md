@@ -1,4 +1,4 @@
-### Hi there 👋, I am Ahmad Ateya a Computer Engineering student, interested in Backend Development, Cloud, and DevOps.
+### Hi there 👋, I am Ahmad Ateya a CSE Student, interested in Backend Engineering, Cloud, and DevOps.
 
 
 - 🔭 I’m currently working on enhancing my Problem Solving skills
@@ -6,9 +6,7 @@
 - 👯 I’m looking to contribute on GitHub CLI and Open Source Projects
 - 🤓 I’m aiming to participate in the upcoming GSoC (google summer of code)
 - 💬 Ask me about ...
-- 📫 How to reach me: ahmad.m.ateya@gmil.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: ahmad.m.ateya@gmail.com Or [LinkedIn](https://www.linkedin.com/in/ahmadateya/)
 
 [![Years Badge](https://badges.pufler.dev/years/ahmadateya)](https://badges.pufler.dev)
 ![Golang](https://img.shields.io/badge/-Golang-gray?style=flat-square&logo=Go)
