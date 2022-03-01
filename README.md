@@ -1,10 +1,6 @@
 ### Hi there 👋, I am Ahmad Ateya a CSE Student, interested in Backend Engineering, Cloud, and DevOps.
 
 
-- 🔭 I’m currently working on enhancing my Problem Solving skills
-- 🌱 I’m currently learning Golang, Cloud Computing ...
-- 👯 I’m looking to contribute on GitHub CLI and Open Source Projects
-- 🤓 I’m aiming to participate in the upcoming GSoC (google summer of code)
 - 📫 How to reach me: ahmad.m.ateya@gmail.com Or [LinkedIn](https://www.linkedin.com/in/ahmadateya/)
 
 [![Years Badge](https://badges.pufler.dev/years/ahmadateya)](https://badges.pufler.dev)
@@ -20,7 +16,7 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-gray?style=flat-square&logo=kubernetes)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ahmadateya&count_private=true&show_icons=true&include_all_commits=true&theme=light)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ahmadateya&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
 
 
 <!-- Un wanted stats -->
