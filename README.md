@@ -5,7 +5,6 @@
 
 [![Years Badge](https://badges.pufler.dev/years/ahmadateya)](https://badges.pufler.dev)
 ![Golang](https://img.shields.io/badge/-Golang-gray?style=flat-square&logo=Go)
-![PHP](https://img.shields.io/badge/-PHP-00599C?style=flat-square&logo=php)
 ![Linux](https://img.shields.io/badge/-Linux-gray?style=flat-square&logo=linux)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-gray?style=flat-square&logo=mysql)
