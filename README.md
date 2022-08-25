@@ -3,7 +3,7 @@
 
 - 📫 How to reach me: ahmad.m.ateya@gmail.com Or [LinkedIn](https://www.linkedin.com/in/ahmadateya/)
 
-![Years Badge](https://badges.pufler.dev/years/ahmadateya)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/ahmadateya)](https://badges.pufler.dev)
 ![Golang](https://img.shields.io/badge/-Golang-gray?style=flat-square&logo=Go)
 ![Linux](https://img.shields.io/badge/-Linux-gray?style=flat-square&logo=linux)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
