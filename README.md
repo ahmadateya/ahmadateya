@@ -1,4 +1,4 @@
-### Hi there 👋, I am Ahmad Ateya a CSE Student, interested in Backend Engineering, Cloud, and DevOps.
+### Hi there 👋, I am Ahmad Ateya a Computer Engineer, interested in Backend Engineering, Cloud, and DevOps.
 
 
 - 📫 How to reach me: ahmad.m.ateya@gmail.com Or [LinkedIn](https://www.linkedin.com/in/ahmadateya/)
